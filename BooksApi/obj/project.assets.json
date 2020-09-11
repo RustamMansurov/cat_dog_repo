@@ -4976,11 +4976,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rustam/books/BooksApi/BooksApi.csproj",
+      "projectUniqueName": "/home/rustam/Project/cat_dog_repo/BooksApi/BooksApi.csproj",
       "projectName": "BooksApi",
-      "projectPath": "/home/rustam/books/BooksApi/BooksApi.csproj",
+      "projectPath": "/home/rustam/Project/cat_dog_repo/BooksApi/BooksApi.csproj",
       "packagesPath": "/home/rustam/.nuget/packages/",
-      "outputPath": "/home/rustam/books/BooksApi/obj/",
+      "outputPath": "/home/rustam/Project/cat_dog_repo/BooksApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/rustam/.nuget/NuGet/NuGet.Config"
