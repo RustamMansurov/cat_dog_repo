@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kKfcI1EWLlOj2jfnuORl6ENLYP3yI4CplNffSGrRCMtFR+y/W+ylw09whLZRXoDiS11NU2tPu+n3ZEps0WFw0A==",
+  "dgSpecHash": "M6wCabh6ElCvpjPQih/TOcJRt2H2lB7L3YbFq8oCLveZA8urhicHpFUHplT7Zgkzp2sIS8YwpL4A80E6x8mMnA==",
   "success": true,
-  "projectFilePath": "/home/rustam/Project/cat_dog_repo/BooksApi/BooksApi.csproj",
+  "projectFilePath": "/home/rustam/Project/cat_dog_repo/BooksApi.csproj",
   "expectedPackageFiles": [
     "/home/rustam/.nuget/packages/dnsclient/1.3.1/dnsclient.1.3.1.nupkg.sha512",
     "/home/rustam/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
