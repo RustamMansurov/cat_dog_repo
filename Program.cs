@@ -25,11 +25,11 @@ namespace BooksApi
              //   });
                public static IWebHostBuilder CreateWebHostBuilder(string[] args)
     {
-        var port = Environment.GetEnvironmentVariable("PORT");
+        var port = Environment.GetEnvironmentVariable("5000");
 
         return WebHost.CreateDefaultBuilder(args)
             .UseStartup<Startup>()
-            .UseUrls("http://*:"+port);
+            .UseUrls("http://*:"+5000);
     }
     }
 }
